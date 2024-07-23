@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Diamante negro",
+        "quantidade": 15,
+        "preco": 650,
+        "tipo": "Chocolate",
+        "lote": "000001",
+        "validade": "25/03/2025",
+        "codigo_barras": "000000001"
+    },
+    {
+        "nome": "Arroz Tio Joao",
+        "quantidade": 6,
+        "preco": 2500,
+        "tipo": "Gr\u00e3os",
+        "lote": "000002",
+        "validade": "19/02/2026",
+        "codigo_barras": "000000002"
+    },
+    {
+        "nome": "Galak",
+        "quantidade": 10,
+        "preco": 785.0,
+        "tipo": "Chocolate Branco",
+        "lote": "000003",
+        "validade": "26/04/2025",
+        "codigo_barras": "000000003"
+    },
+    {
+        "nome": "Doritos",
+        "quantidade": 28,
+        "preco": 1200.0,
+        "tipo": "Salgadinho",
+        "lote": "000004",
+        "validade": "28/04/2024",
+        "codigo_barras": "000000004"
+    }
+]
